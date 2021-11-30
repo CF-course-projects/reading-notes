@@ -3,7 +3,7 @@
 ![image](https://inteng-storage.s3.amazonaws.com/img/iea/9lwjAVnM6E/sizes/ocde_resize_md.jpg)
 ## Table of Contents:
 ### 1: [Class 1](201/class-01.md)
-### 2: 
+### 2: [Class 2](201/class-02.md)
 ### 3: 
 ### 4: 
 ### 5: 
