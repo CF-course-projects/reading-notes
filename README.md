@@ -8,7 +8,7 @@
 ### 4: [Class 4](201/class-04.md)
 ### 5: [Class 5](201/class-05.md)
 ### 6: [Class 6](201/class-06.md)
-### 7: 
+### 7: [Class 7](201/class-07.md)
 ### 8:
 ### 9:
 ### 10:
