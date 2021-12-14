@@ -1,9 +1,4 @@
-<p></p>
-<ul>
-<li></li>
-<li></li>
-<li></li>
-</ul>
+
 <p>Charts with chart.js</p>
 <ul>
 <li>after downloading and importing in Charts.js, create a script tag  with a source attribute with Chart.min.js</li>
