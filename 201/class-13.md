@@ -8,6 +8,4 @@
 <p>HTML 5 Storage: <br> What is it? It allows web pages to store named key/value pairs locally in the client web browser.</p>
 <ul>
 <li>data is stored as key value pairs: NOTE all data is stored as string data types</li>
-<li></li>
-<li></li>
 </ul>
