@@ -2,8 +2,8 @@
 ### Welcome! This website will serve as a notebook for my readings during CF Code 301.
 ![image](https://inteng-storage.s3.amazonaws.com/img/iea/9lwjAVnM6E/sizes/ocde_resize_md.jpg)
 ## Table of Contents:
-### 1: [Class 1](./301/class-1.md)
-### 2: [Class 2](./301/class-2.md)
+### 1: [Class 1](/301/class-1.md)
+### 2: [Class 2](/301/class-2.md)
 ### 3: [Class 3]()
 ### 4: [Class 4]()
 ### 5: [Class 5]()
