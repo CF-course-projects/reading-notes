@@ -1,0 +1,25 @@
+## API Desing Best Practices
+
+- What does REST stand for?
+  - REST stands for Representational. State. Transfer. This was proposed by Roy Fielding, as an architectural approach to designing web services.
+- REST APIs are designed around a ____.
+  - resource: any kind of object, data or service that can be accessed by a client.
+- What is an identifer of a resource? Give an example.
+  - A URI, is something that uniquely identifies a resource. An example may be a QR code, a bar code etc
+- What are the most common HTTP verbs?
+  - GET: gets a resource from the URI
+  - POST: creates a new resource at the URI
+  - PUT: creates or replaces the resource at the URI
+  - PATCH: performs partial update of resource
+  - DELETE: removes resource from URI
+- What should the URIs be based on?
+- Give an example of a good URI.
+- What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+- What status code does a successful GET request return?
+  - 200 (OK)
+- What status code does an unsuccessful GET request return?
+  - 404 (Not found)
+- What status code does a successful POST request return?
+  - 201 (Created)
+- What status code does a successful DELETE request return?
+  - 204 (No Content)
