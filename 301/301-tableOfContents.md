@@ -1,5 +1,5 @@
 # Code 301 Reading Notes
-### Welcome! This website will serve as a notebook for my readings during CF Code 301.
+### Welcome! This page will serve as a notebook for my readings during CF Code 301.
 ![image](https://inteng-storage.s3.amazonaws.com/img/iea/9lwjAVnM6E/sizes/ocde_resize_md.jpg)
 ## Table of Contents:
 ### 1: [Class 1](/301/class-1.md)
