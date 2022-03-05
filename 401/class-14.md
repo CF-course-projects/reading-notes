@@ -21,3 +21,4 @@
 
 ### bcrypt overview
   - bcrtpy uses a key factor to adjust the cost of hashing. With key factor changes, the hash output can be influenced. This ultimately slows down the cracking process until it's no longer a viable strategy.
+
