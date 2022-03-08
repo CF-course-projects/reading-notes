@@ -17,3 +17,6 @@
 ### 13: [Class 13](../401/class-13.md)
 ### 14: [Class 14](../401/class-14.md)
 ### 15: [Class 15](../401/class-15.md)
+### 16: [Class 16](../401/class-16.md)
+### 17: [Class 17](../401/class-17.md)
+### 18: [Class 18](../401/class-18.md)
