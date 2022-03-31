@@ -24,3 +24,6 @@
 ### 26: [Class 26](../401/class-26.md)
 ### 27: [Class 27](../401/class-27.md)
 ### 28: [Class 28](../401/class-28.md)
+### 29: [Class 29](../401/class-29.md)
+### 31: [Class 31](../401/class-31.md)
+### 34: [Class 34](../401/class-34.md)
